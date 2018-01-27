@@ -9,7 +9,7 @@ INCLUDE Irvine32.inc
 ; (insert constant definitions here)
 
 .data
-
+;Random Comment
 ; (insert variable definitions here)
 LIMIT		=		46	;The upper limit of the input
 MINIMUM		=		1	;The lower limit of the input
